@@ -1,0 +1,22 @@
+{
+  "name": "ftc-reset-password",
+  "version": "1.0.0",
+  "description": "it can rest password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunhannie/ftc-reset-password.git"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "hehuiyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunhannie/ftc-reset-password/issues"
+  },
+  "homepage": "https://github.com/sunhannie/ftc-reset-password#readme"
+}
